@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xk9ebof6.github.io/DAO-Constructs/sitemap.xml.gz
+Sitemap: https://daoconstructs.xyz/sitemap.xml.gz
