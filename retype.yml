@@ -1,0 +1,29 @@
+input: .
+cache.busting.strategy: none
+url: https://xk9ebof6.github.io/DAO-Constructs/
+cname: false
+favicon: Images/Brand/Favicon.png
+
+meta:
+  title: " - DAO Constructs"
+
+branding:
+  logo: Images/Brand/Logo-White-Theme.png
+  logoDark: Images/Brand/Logo-Dark-Theme.png
+
+search:
+  maxResults: 10
+  placeholder: Search
+  noResultsFoundMsg: Sorry, no results found.
+  hotkeys:
+    - "/"
+
+snippets:
+  lineNumbers:
+    - none
+
+footer:
+  links:
+    - text: © CC BY-NC-ND 4.0
+      link: http://creativecommons.org/licenses/by-nc-nd/4.0/
+      target: blank
