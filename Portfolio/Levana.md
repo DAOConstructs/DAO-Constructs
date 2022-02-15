@@ -6,14 +6,14 @@ order: 6
 
 ![](../Images/Covers/Levana.png)
 
-Levana is a protocol for the creation of leverage assets.
+_Levana is a protocol for the creation of leverage assets._
 
-**🕸️ Website**: https://levana.finance/
+[**Official Website**](https://levana.finance/)
 
 ---
 
 ## 🇬🇷 Translation & Social Media Management
 
-- **Blog**: https://medium.com/@levanagreece
-- **Twitter**: https://twitter.com/LevanaGreece
-- **Discord Channel**: https://discord.gg/v5Sa4spGrz
+- [**Blog**](https://medium.com/@levanagreece)
+- [**Twitter**](https://twitter.com/LevanaGreece)
+- [**Discord Channel**](https://discord.gg/v5Sa4spGrz)

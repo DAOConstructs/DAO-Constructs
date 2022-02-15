@@ -6,12 +6,13 @@ order: 4
 
 ![](../Images/Covers/BadgerDAO.png)
 
-BadgerDAO makes it easy to bring your Bitcoin to DeFi and start earning yield today.
+_BadgerDAO makes it easy to bring your Bitcoin to DeFi and start earning yield today._
 
-**🕸️ Website**: https://badger.com/
+[**Official Website**](https://badger.com/)
+
 
 ---
 
 ## 🇬🇷 Translation
 
-- **Blog**: https://badger-dao-gr.medium.com/
+- [**Blog**](https://badger-dao-gr.medium.com/)

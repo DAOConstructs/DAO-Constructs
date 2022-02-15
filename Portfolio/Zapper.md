@@ -6,12 +6,12 @@ order: 1
 
 ![](../Images/Covers/Zapper.png)
 
-Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place.
+_Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. Invest in the latest opportunities from one convenient place._
 
-**🕸️ Website**: https://zapper.fi/
+[**Official Website**](https://zapper.fi/)
 
 ---
 
-## Translation
+## 🇬🇷 Translation
 
-- **Website**: https://zapper.fi/el
+- [**Website**](https://zapper.fi/el)
