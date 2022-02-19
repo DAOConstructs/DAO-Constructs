@@ -3,9 +3,17 @@ icon: "person"
 description: Donald is a 30 years old male from Greece and holds a BS(c) degree in Computer Networks and an advocates degree in Web Design/Development. He has experience in translating cryptocurrency-related blog articles and documentation from English to Greek.
 ---
 
-# Donald
+# Donald Iljazi
+
+-![](../../Images/Profiles/Donald-Iljazi.png)
+
+<br />
+<br />
 
 Donald Iljazi is a 30 years old male from Greece and holds a BS(c) degree in Computer Networks and an advocates degree in Web Design/Development. He has experience in translating cryptocurrency-related blog articles and documentation from English to Greek.
+
+<br />
+<br />
 
 ---
 

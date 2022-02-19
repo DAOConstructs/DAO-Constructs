@@ -3,7 +3,7 @@ icon: "person"
 description: Iason is a 29 years old male from Greece and holds a proficiency degree in English. He has experience in translating cryptocurrency-related blog articles and documentation from English to Greek as well as audio to text transcription in Greek.
 ---
 
-# Jason
+# Iason Andreou
 
 Iason Andreou is a 29 years old male from Greece and holds a proficiency degree in English. He has experience in translating cryptocurrency-related blog articles and documentation from English to Greek as well as audio to text transcription in Greek.
 

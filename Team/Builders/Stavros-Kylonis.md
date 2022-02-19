@@ -3,9 +3,19 @@ icon: "person"
 description: Stavros is a 30 years old male from Greece. He has a multi-year experience in project management in the cryptocurrency space.
 ---
 
-# Stavros
+# Stavros Kylonis
+
+-![](../../Images/Profiles/Stavros-Kylonis.png)
+
+<br />
+<br />
+<br />
 
 Stavros Kylonis is a 30 years old male from Greece. He has a multi-year experience in project management in the cryptocurrency space.
+
+<br />
+<br />
+<br />
 
 ---
 
