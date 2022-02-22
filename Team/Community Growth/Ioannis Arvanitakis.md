@@ -28,7 +28,7 @@ Ioannis Arvanitakis is a 26 years old male from Greece. A professional photograp
 
 ### 📸 Photography Profiles
 
-- **Website (Work in Progress):** [johnefthimiou.com](http://johnefthimiou.com/)
+- **Website**: [johnefthimiou.com](http://johnefthimiou.com/)
 - **Twitter**: @[john13ph](https://twitter.com/john13ph)
 - **nstagram:** [john__efthimiou](https://www.instagram.com/john__efthimiou/)
 - **500px:** [johnefthimiouphotography](https://500px.com/p/johnefthimiouphotography)

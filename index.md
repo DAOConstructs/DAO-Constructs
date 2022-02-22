@@ -29,5 +29,5 @@ DAO Constructs of the highest order.
 - Creation of animated education videos.
 
 ==- 🎞️ Video Animation
-Creation of animated videos.
+- Creation of animated videos.
 ===
