@@ -1,8 +1,8 @@
 ---
-icon: "home"
+icon: "file"
 description: DAO Constructs of the highest order.
 ---
-# Home
+# Services
 
 DAO Constructs of the highest order.
 
