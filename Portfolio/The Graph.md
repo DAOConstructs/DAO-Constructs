@@ -8,16 +8,10 @@ order: 10
 
 _The Graph is an indexing protocol for querying networks like Ethereum and IPFS. Anyone can build and publish open APIs, called subgraphs, making data easily accessible._
 
-[**Offocial Website**](https://thegraph.com/en/)
+[**Official Website**](https://thegraph.com/en/)
 
 ---
 
 ## 🇬🇷 Translation & Social Media Management
 
 - [**Blog**](https://www.thegraph.gr/)
-- [**Subtitles**](https://www.youtube.com/channel/UCRBRa-lydXc-9OlBG3mm9Ww/videos)
-- [**Twitter**](https://twitter.com/thegraph_gr)
-
-## 🇺🇲️ Transcription
-
-- [**Subtitles**](https://www.youtube.com/channel/UCRBRa-lydXc-9OlBG3mm9Ww/videos)
