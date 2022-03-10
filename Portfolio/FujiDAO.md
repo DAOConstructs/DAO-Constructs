@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/FujiDAO.png"
 description: First on-chain borrowing aggregator
-order: 3
+order: 7
 ---
 
 ![](../Images/Covers/FujiDAO.png)
@@ -16,3 +16,7 @@ _First on-chain borrowing aggregator._
 - [**Documentation**](https://docs.fujidao.org/v/greek)
 - [**Twitter**](https://twitter.com/FujiDAO_GR)
 - [**Discord Channel**](https://discord.gg/fujidao)
+
+---
+
+_Work in progress..._

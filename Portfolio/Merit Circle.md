@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Merit-Circle.png"
 description: We are a decentralized autonomous organization on a mission to revolutionize gaming. Join us as we build the metaverse by empowering people to be a part of it.
-order: 7
+order: 4
 ---
 
 ![](../Images/Covers/Merit-Circle.png)
@@ -14,7 +14,5 @@ _We are a decentralized autonomous organization on a mission to revolutionize ga
 
 ## 🇬🇷 Translation & Social Media Management
 
-- [**Blog**](https://meritcirclegr.substack.com/)
+- [**Blog**]()
 - [**Documentation**](https://merit-circle.gitbook.io/gr/)
-- [**Twitter**](https://twitter.com/MeritCircle_GR)
-- [**Discord Channel**](https://discord.gg/KuXdzYXfdv)

@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Monero.png"
 description: Private, decentralized cryptocurrency that keeps your finances confidential and secure.
-order: 11
+order: 10
 ---
 
 ![](../Images/Covers/Monero.png)
@@ -23,3 +23,7 @@ _Private, decentralized cryptocurrency that keeps your finances confidential and
 
 - [**Donald A. Iljazi**](https://translate.getmonero.org/user/oeAdgK01/)
 - [**Iason Andreou**](https://translate.getmonero.org/user/zero-andreou/)
+
+---
+
+_Work in progress..._

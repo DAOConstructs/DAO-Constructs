@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Levana.png"
 description: Levana is a protocol for the creation of leverage assets.
-order: 6
+order: 2
 ---
 
 ![](../Images/Covers/Levana.png)
@@ -12,8 +12,6 @@ _Levana is a protocol for the creation of leverage assets._
 
 ---
 
-## 🇬🇷 Translation & Social Media Management
+## 🇬🇷 Translation
 
 - [**Blog**](https://medium.com/@levanagreece)
-- [**Twitter**](https://twitter.com/LevanaGreece)
-- [**Discord Channel**](https://discord.gg/v5Sa4spGrz)

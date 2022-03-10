@@ -17,3 +17,7 @@ _Ceramic is a decentralized, open source platform for creating, hosting, and sha
 - [**Blog**](https://ceramicnetworkgr.substack.com/)
 - [**Twitter**](https://twitter.com/ceramic_net_gr)
 - [**Discord Channel**](https://discord.gg/2EQ5RGhFNX)
+
+---
+
+_Work in progress..._

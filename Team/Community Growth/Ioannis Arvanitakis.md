@@ -3,7 +3,7 @@ icon: "person"
 description: Ioannis is a 26 years old male from Greece. A professional photographer and filmmaker and holds a Proficiency degree in English. He holds an MS(c) degree in History and Archaeology and has a deep knowledge of the modern Greek language as well as ancient Greek and Latin. He has experience in translating cryptocurrency-related blog articles and documentation from English to Greek as well as audio to text transcription in Greek.
 ---
 
-# Ioannis Arvanitakis
+# Ioannis Arvanitakis 
 
 -![](../../Images/Profiles/Ioannis-Arvanitakis.png)
 
@@ -30,7 +30,7 @@ Ioannis Arvanitakis is a 26 years old male from Greece. A professional photograp
 
 - **Website**: [johnefthimiou.com](http://johnefthimiou.com/)
 - **Twitter**: @[john13ph](https://twitter.com/john13ph)
-- **Instagram:** [john__efthimiou](https://www.instagram.com/john__efthimiou/)
+- **nstagram:** [john__efthimiou](https://www.instagram.com/john__efthimiou/)
 - **500px:** [johnefthimiouphotography](https://500px.com/p/johnefthimiouphotography)
 - **Rarible:** [johnefthimiou](https://rarible.com/johnefthimiou/sale)
 
