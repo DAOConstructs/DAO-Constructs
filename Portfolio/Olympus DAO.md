@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Olympus-DAO.png"
 description: Olympus is building a community-owned decentralized financial infrastructure to bring more stability and transparency for the world.
-order: 6
+order: 5
 ---
 
 ![](../Images/Covers/Olympus-DAO.png)
