@@ -13,7 +13,7 @@ DAO Constructs of the highest order.
 - **Social Media Management**: Administration of social media channels such as Twitter, Discord and Telegram for multilingual accounts. Assessment and selection of the most suitable person for each account.
 - **Video Transcription**: Creation of English subtitles.
 
-==- 🇬🇷 For the Greek Community
+==- 🇬🇷 🇪🇸️ For the Greek and Spanish Communities
 - **Translation**: Website, applications, documentation, White Papers, blog posts, subtitles and other content.
 - **Social Media and Discourse**: Organic social media growth on Twitter, Telegram and Discord moderation.
 ===
