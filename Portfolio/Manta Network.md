@@ -12,7 +12,7 @@ _We're building an interoperable privacy layer for the Polkadot ecosystem._
 
 ---
 
-## 🇬🇷 Translation
+## 🇬🇷 Greek Translation
 
 - [**Blog**](https://mantanetworkgr.substack.com/)
 - [**Documentation**](https://mantanetworkgr.gitbook.io/greek/)

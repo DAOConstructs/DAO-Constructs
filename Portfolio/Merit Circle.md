@@ -12,7 +12,7 @@ _We are a decentralized autonomous organization on a mission to revolutionize ga
 
 ---
 
-## 🇬🇷 Translation & Social Media Management
+## 🇬🇷 Greek Translation & Social Media Management
 
 - [**Blog**](https://meritcirclegrecce.substack.com/)
 - [**Documentation**](https://merit-circle.gitbook.io/gr/)

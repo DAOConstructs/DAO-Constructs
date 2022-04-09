@@ -12,7 +12,7 @@ _Olympus is building a community-owned decentralized financial infrastructure to
 
 ---
 
-## 🇬🇷 Translation
+## 🇬🇷 Greek Translation
 
 - [**Medium**](https://olympusdao-gr.medium.com/)
 - [**Agora Medium**](https://medium.com/@OlympusAgoraGR)
