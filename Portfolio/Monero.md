@@ -12,7 +12,7 @@ _Private, decentralized cryptocurrency that keeps your finances confidential and
 
 ---
 
-## 🇬🇷 Translation
+## 🇬🇷 Greek Translation
 
 - [**Website**](https://www.getmonero.org/el/index.html)
 - [**GUI Wallet**](https://www.getmonero.org/el/downloads/#gui)
@@ -30,7 +30,7 @@ _Work in progress..._
 
 ---
 
-## 🇪🇸 Translation
+## 🇪🇸 Spanish Translation
 
 - [**Website**](https://www.getmonero.org/es/index.html)
 - [**GUI Wallet**](https://www.getmonero.org/es/downloads/index.html)
