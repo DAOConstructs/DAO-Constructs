@@ -28,3 +28,13 @@ _Tools for the Web3 Data Economy_
 
 _Work in progress..._
 
+---
+
+## 🇪🇸 Translation & Social Media Management
+
+- [**Blog**](https://www.oceanprotocol.es/)
+- [**Twitter**](https://twitter.com/OceanProtocolEs)
+
+---
+
+_Work in progress..._
