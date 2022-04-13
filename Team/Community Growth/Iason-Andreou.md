@@ -23,6 +23,6 @@ Iason Andreou is a 29 years old male from Greece and holds a proficiency degree 
 ### 📥 Contact
 
 - **Email Address**: [zero-andreou@gmail.com](mailto:zero-andreou@gmail.com)
-- **Twitter Profile**: @[JasonRises](https://twitter.com/JasonRises)
-- **Discord Handle**: @tseligas071#0290
+- **Twitter Profile**: [JasonRises](https://twitter.com/JasonRises)
+- **Discord Handle**: tseligas071#0290
 

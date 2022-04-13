@@ -15,7 +15,6 @@ _First on-chain borrowing aggregator._
 - [**Blog**](https://medium.com/fuji-dao-greek)
 - [**Documentation**](https://docs.fujidao.org/v/greek)
 - [**Twitter**](https://twitter.com/FujiDAO_GR)
-- [**Discord Channel**](https://discord.gg/fujidao)
 
 ---
 

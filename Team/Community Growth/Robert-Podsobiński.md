@@ -24,6 +24,6 @@ Robert Podsobiński is a 30 years old from Poland. He holds a proficiency degree
 
 - **GitHub**: [xxxBrolly](https://github.com/xxxBrolly)
 - **Email Address**: [roberticloud33@gmail.com](mailto:roberticloud33@gmail.com)
-- **Twitter Profile**: @[@Robert_Brolly](https://twitter.com/@Robert_Brolly)
+- **Twitter Profile**: [Robert_Brolly](https://twitter.com/@Robert_Brolly)
 - **Discord Handle**: Brolly#7577
 

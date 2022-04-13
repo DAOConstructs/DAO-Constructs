@@ -12,8 +12,10 @@ _Private, decentralized cryptocurrency that keeps your finances confidential and
 
 ---
 
-## 🇬🇷 Greek Translation
+## 🇬🇷 Greek Translation & Social Media Management
 
+- [**Blog**](https://www.getmonero.gr/)
+- [**Twitter**](https://twitter.com/MoneroGR)
 - [**Website**](https://www.getmonero.org/el/index.html)
 - [**GUI Wallet**](https://www.getmonero.org/el/downloads/#gui)
 - **Subtitle**: [Monero: Sound Money, Safe Mode](https://youtu.be/aC9Uu5BUxII)

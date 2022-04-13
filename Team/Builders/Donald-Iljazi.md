@@ -38,5 +38,5 @@ Donald Iljazi is a 30 years old male from Greece and holds a BS(c) degree in Com
 ### 📥 Contact
 
 - **Email Address**: [Xk9eboF6@protonmail.com](mailto:Xk9eboF6@protonmail.com)
-- **Twitter Profile**: [@Xk9eboF6](https://twitter.com/xK9eboF6)
+- **Twitter Profile**: [Xk9eboF6](https://twitter.com/xK9eboF6)
 - **Discord Handle**: Xk9eboF6#0464

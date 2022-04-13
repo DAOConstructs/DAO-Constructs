@@ -16,7 +16,6 @@ _Levana is a protocol for the creation of leverage assets._
 
 - [**Blog**](https://medium.com/@levanagreece)
 - [**Twitter**](https://twitter.com/LevanaGreece)
-- [**Discord Channel**](https://discord.com/invite/v5Sa4spGrz)
 
 ---
 

@@ -36,6 +36,7 @@ Stavros Kylonis is a 30 years old male from Greece. He has a multi-year experien
 
 ### 📥 Contact
 
+- **Twitter**: [DAOConstructs](https://twitter.com/DAOConstructs)
 - **Discord**: DAO Constructs#1278
 - **E-mail**: daoconstructs@protonmail.com
 - **Matrix**: @dao-constructs:matrix.org
