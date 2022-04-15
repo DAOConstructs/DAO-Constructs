@@ -30,7 +30,7 @@ _Work in progress..._
 
 ---
 
-## 🇪🇸 Greek Translation & Social Media Management
+## 🇪🇸 Spanish Translation & Social Media Management
 
 - [**Blog**](https://www.oceanprotocol.es/)
 - [**Twitter**](https://twitter.com/OceanProtocolEs)
