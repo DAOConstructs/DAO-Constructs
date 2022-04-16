@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Monero.png"
 description: Private, decentralized cryptocurrency that keeps your finances confidential and secure.
-order: 10
+order: 14
 ---
 
 ![](../Images/Covers/Monero.png)

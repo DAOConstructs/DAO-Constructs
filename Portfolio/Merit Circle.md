@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Merit-Circle.png"
 description: We are a decentralized autonomous organization on a mission to revolutionize gaming. Join us as we build the metaverse by empowering people to be a part of it.
-order: 4
+order: 3
 ---
 
 ![](../Images/Covers/Merit-Circle.png)

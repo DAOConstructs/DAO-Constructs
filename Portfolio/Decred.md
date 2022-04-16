@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Decred.jpg"
 description: Decred is an autonomous digital currency. With a hybrid consensus system, it is built to be a decentralized, sustainable, and self-ruling currency where stakeholders make the rules.
-order: 11
+order: 13
 ---
 
 ![](../Images/Covers/Decred.jpg)

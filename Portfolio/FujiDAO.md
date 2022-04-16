@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/FujiDAO.png"
-description: First on-chain borrowing aggregator
-order: 7
+description: First on-chain borrowing aggregator.
+order: 5
 ---
 
 ![](../Images/Covers/FujiDAO.png)

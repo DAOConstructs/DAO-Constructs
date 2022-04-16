@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Ocean-Protocol.png"
 description: Tools for the Web3 Data Economy
-order: 9
+order: 10
 ---
 
 ![](../Images/Covers/Ocean-Protocol.png)
