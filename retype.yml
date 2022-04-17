@@ -2,7 +2,7 @@ input: .
 cache.busting.strategy: none
 url: https://daoconstructs.xyz/
 cname: false
-favicon: Images/Brand/Favicon.png
+favicon: Images/Brand/Logo.png
 
 meta:
   title: " - DAO Constructs"
