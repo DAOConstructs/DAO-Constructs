@@ -4,7 +4,7 @@ description: DAO Constructs of the highest order.
 ---
 # Services
 
-DAO Constructs of the highest order.
+A passionate team of community managers, builders and translators with extensive experience in the cryptocurrency space.
 
 ## 🌎 Community Growth
 
