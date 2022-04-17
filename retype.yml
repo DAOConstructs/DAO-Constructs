@@ -8,8 +8,7 @@ meta:
   title: " - DAO Constructs"
 
 branding:
-  logo: Images/Brand/Logo-White-Theme.png
-  logoDark: Images/Brand/Logo-Dark-Theme.png
+  logo: Images/Brand/Logo.png
 
 links:
   - text: GitHub
