@@ -18,7 +18,7 @@ Iason Andreou is a 29 years old male from Greece and holds a proficiency degree 
 ### 🧰 Tools of Trade
 
 - **Office**: Microsoft Office (Word, Excel, PowerPoint, Teams), Google (Docs, Sheets, Forms, Slides).
-- **Miscellaneous**: Airtable, Notion, GitHub, GitLab, Transifex, Crowdin, Weblate Medium, Substack.
+- **Miscellaneous**: Airtable, Notion, GitHub, GitLab, Transifex, Crowdin, Weblate, Medium, Substack.
 
 ### 📥 Contact
 
