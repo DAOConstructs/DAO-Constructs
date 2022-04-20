@@ -5,6 +5,8 @@ description: Dziouba Daria is a 29 years old female from Russia who holds a prof
 
 # Dziouba Daria
 
+-![](../../Images/Profiles/Daria-Dziouba.png)
+
 Dziouba Daria is a 29 years old female from Russia who holds a proficiency degree in English and has experience in the tourism industry as a tour guide. She holds a Master’s degree from the Russian International Academy for Tourism (RIAT).
 
 ---

@@ -5,6 +5,8 @@ description: Robert Podsobiński is a 30 years old from Poland. He holds a profi
 
 # Robert Podsobiński
 
+-![](../../Images/Profiles/Robert-Podsobiński.png)
+
 Robert Podsobiński is a 30 years old from Poland. He holds a proficiency degree in English and a degree in Agricultural Sciences. A cryptocurrency investor since 2015.
 
 ---
