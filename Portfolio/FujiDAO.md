@@ -12,9 +12,9 @@ _First on-chain borrowing aggregator._
 
 ## 🇬🇷 Translation & Social Media Management
 
-- [**Blog**](https://medium.com/fuji-dao-greek)
+- [**Blog**](https://www.cryptoblocks.gr/s/fujidao)
 - [**Documentation**](https://docs.fujidao.org/v/greek)
-- [**Twitter**](https://twitter.com/FujiDAO_GR)
+- [**Twitter**](https://twitter.com/CryptoBlocks_GR)
 
 ---
 
