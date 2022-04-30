@@ -14,8 +14,8 @@ _Decred is an autonomous digital currency. With a hybrid consensus system, it is
 
 ## 🇬🇷 Translation & Social Media Management
 
-- [**Blog**](https://www.decred.gr/)
-- [**Twitter**](https://twitter.com/DecredGR)
+- [**Blog**](https://www.cryptoblocks.gr/s/decred)
+- [**Twitter**](https://twitter.com/CryptoBlocks_GR)
 
 ---
 
