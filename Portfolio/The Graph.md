@@ -14,12 +14,9 @@ _The Graph is an indexing protocol for querying networks like Ethereum and IPFS.
 
 ## 🇬🇷 Greek Translation
 
-- [**Blog**](https://www.thegraph.gr/)
-- [**YouTube**](https://www.youtube.com/channel/UCNfxUmhmBRpoghLNyzKjbLw)
+- [**Blog**](https://thegraphgr.substack.com/)
 - [**Subtitles**](https://gist.github.com/Xk9eboF6/fd0da262bf368f6d69008aead50e6088)
 
 ## 🇬🇧 English Transcription
 
-- [**YouTube**](https://www.youtube.com/channel/UCNfxUmhmBRpoghLNyzKjbLw)
 - [**Subtitles**](https://gist.github.com/Xk9eboF6/638f5e227c6315bfc3ef52d9f15b6720)
-
