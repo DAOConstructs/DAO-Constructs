@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/BadgerDAO.png"
 description: BadgerDAO makes it easy to bring your Bitcoin to DeFi and start earning yield today.
-order: 2
+order: 1
 ---
 
 ![](../Images/Covers/BadgerDAO.png)
@@ -13,6 +13,6 @@ _BadgerDAO makes it easy to bring your Bitcoin to DeFi and start earning yield t
 
 ---
 
-## 🇬🇷 Translation
+## 🇬🇷 Greek Translation
 
 - [**Blog**](https://badger-dao-gr.medium.com/)

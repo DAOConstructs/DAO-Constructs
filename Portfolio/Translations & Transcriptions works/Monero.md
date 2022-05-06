@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Monero.png"
 description: Private, decentralized cryptocurrency that keeps your finances confidential and secure.
-order: 14
+order: 9
 ---
 
 ![](../Images/Covers/Monero.png)
@@ -12,10 +12,8 @@ _Private, decentralized cryptocurrency that keeps your finances confidential and
 
 ---
 
-## 🇬🇷 Greek Translation & Social Media Management
+## 🇬🇷 Greek Translation
 
-- [**Blog**](https://www.cryptoblocks.gr/s/monero)
-- [**Twitter**](https://twitter.com/CryptoBlocks_GR)
 - [**Website**](https://www.getmonero.org/el/index.html)
 - [**GUI Wallet**](https://www.getmonero.org/el/downloads/#gui)
 - **Subtitle**: [Monero: Sound Money, Safe Mode](https://www.youtube.com/watch?v=XXUl7Ug674k&t=11s)

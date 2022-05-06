@@ -1,7 +1,7 @@
 ---
 icon: "Images/Logos/Ocean-Protocol.png"
 description: Tools for the Web3 Data Economy
-order: 10
+order: 8
 ---
 
 ![](../Images/Covers/Ocean-Protocol.png)
@@ -12,12 +12,10 @@ _Tools for the Web3 Data Economy_
 
 ---
 
-## 🇬🇷 Greek Translation & Social Media Management
+## 🇬🇷 Greek Translation
 
-- [**Blog**](https://www.cryptoblocks.gr/s/ocean-protocol)
 - [**YouTube**](https://www.youtube.com/watch?v=b9pp2UDeY_8&list=PLpjVDnIQkRBYGqTDyA3gzprnPXsWZZJHG)
 - [**Subtitles**](https://gist.github.com/Xk9eboF6/71b6182a5f4adf04ae483add553ba8b7)
-- [**Twitter**](https://twitter.com/CryptoBlocks_GR)
 
 ## 🇬🇧 English Transcription
 
