@@ -4,7 +4,7 @@ description: First on-chain borrowing aggregator.
 order: 7
 ---
 
-![](../Images/Covers/FujiDAO.png)
+![](../../Images/Covers/FujiDAO.png)
 
 _First on-chain borrowing aggregator._
 

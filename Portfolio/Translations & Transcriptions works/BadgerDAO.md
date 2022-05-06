@@ -4,7 +4,7 @@ description: BadgerDAO makes it easy to bring your Bitcoin to DeFi and start ear
 order: 1
 ---
 
-![](../Images/Covers/BadgerDAO.png)
+![](../../Images/Covers/BadgerDAO.png)
 
 _BadgerDAO makes it easy to bring your Bitcoin to DeFi and start earning yield today._
 

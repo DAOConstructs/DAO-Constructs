@@ -4,7 +4,7 @@ description: Tools for the Web3 Data Economy
 order: 8
 ---
 
-![](../Images/Covers/Ocean-Protocol.png)
+![](../../Images/Covers/Ocean-Protocol.png)
 
 _Tools for the Web3 Data Economy_
 

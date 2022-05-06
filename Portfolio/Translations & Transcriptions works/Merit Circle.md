@@ -4,7 +4,7 @@ description: We are a decentralized autonomous organization on a mission to revo
 order: 4
 ---
 
-![](../Images/Covers/Merit-Circle.png)
+![](../../Images/Covers/Merit-Circle.png)
 
 _We are a decentralized autonomous organization on a mission to revolutionize gaming. Join us as we build the metaverse by empowering people to be a part of it._
 

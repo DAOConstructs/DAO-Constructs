@@ -4,7 +4,7 @@ description: Private, decentralized cryptocurrency that keeps your finances conf
 order: 9
 ---
 
-![](../Images/Covers/Monero.png)
+![](../../Images/Covers/Monero.png)
 
 _Private, decentralized cryptocurrency that keeps your finances confidential and secure._
 

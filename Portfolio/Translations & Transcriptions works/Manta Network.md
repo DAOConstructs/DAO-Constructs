@@ -4,7 +4,7 @@ description: We're building an interoperable privacy layer for the Polkadot ecos
 order: 3
 ---
 
-![](../Images/Covers/Manta-Network.png)
+![](../../Images/Covers/Manta-Network.png)
 
 _We're building an interoperable privacy layer for the Polkadot ecosystem._
 
